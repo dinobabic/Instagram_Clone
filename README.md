@@ -1,6 +1,6 @@
 # Instagram Clone
 
-Simple Webshop that is divided between customer and employee side. Each employee has ability to add new products and view all transactions. Customer can view all products, add products to carts, view his carts and execute transactions. Customer can also view his profile, where he can update his personal data, and also see his previous transactions. MySql is used to store all the relevant data. For the backend side I've used Spring Boog and for the frontend React. React app for this project can be found on master branch.
+I've wanted to build social app clone for a while now and it is finally here. It is not in it's best shape but user can already create new post, create a story, he can add friends, he can search for other users, like other posts. I will definitely keep on adding functionality. As always, backend for the app was built in Spring Boot and frontend in React. Forontend of the app can be found in master branch. All the relevant data was stored in MySql tables which were created by Hibernate.
 
 <h2>Login</h2>
 <img src="https://user-images.githubusercontent.com/70106587/225995145-9a330043-12ec-45e2-8f6e-73270755a645.png"/>
