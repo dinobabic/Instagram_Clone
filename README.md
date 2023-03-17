@@ -3,19 +3,20 @@
 Simple Webshop that is divided between customer and employee side. Each employee has ability to add new products and view all transactions. Customer can view all products, add products to carts, view his carts and execute transactions. Customer can also view his profile, where he can update his personal data, and also see his previous transactions. MySql is used to store all the relevant data. For the backend side I've used Spring Boog and for the frontend React. React app for this project can be found on master branch.
 
 <h2>Login</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993489-58bf6021-c959-4d17-841b-3d5d1bd3b89b.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994788-ef5cd3cc-d80d-4c5e-af2d-5d8f500b1d90.png"/>
 
 <h2>Register</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993498-30b783ef-2813-4787-b29d-91f0df53dc82.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994798-973eed70-263c-41c7-b14a-84adc34ece9d.png"/>
 
 <h2>Main View</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993494-bfcf05d7-1d39-4856-8480-ad2c4eec17af.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994793-07ff0015-29a9-4408-acea-1f9588077548.png"/>
 
 <h2>Create Post</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993500-84ff6b5d-56a0-47b0-80cf-719f690deea5.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994805-84dd9a78-3ee9-4365-9d2c-27d210740921.png"/>
 
 <h2>View Story</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993815-d6096215-77ed-4548-843a-d2af61b3baa4.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994801-47d43dbf-028c-4d27-b8f1-fda9678e6ae6.png"/>
 
 <h2>Create Story</h2>
-<img src="https://user-images.githubusercontent.com/70106587/225993822-ff12a5f1-fc90-44eb-be26-8bd90e34e005.png"/>
+<img src="https://user-images.githubusercontent.com/70106587/225994806-d1221d49-543e-4b3f-96f2-78d7eb7d00e4.png"/>
+
