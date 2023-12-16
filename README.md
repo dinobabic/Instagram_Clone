@@ -1,7 +1,6 @@
 # Instagram Clone
 
-I've wanted to build social app clone for a while now and it is finally here. It is not in it's best shape but user can already create new post, create a story, he can add friends, he can search for other users, like other posts. I will definitely keep on adding functionality. As always, backend for the app was built in Spring Boot and frontend in React. Forontend of the app can be found in master branch. All the relevant data was stored in MySql tables which were created by Hibernate.
-
+After months of anticipation, I've successfully developed the initial version of my social app clone. While it's not in its optimal state, users can already perform key actions such as creating posts, sharing stories, adding friends, searching for other users, and liking posts. The backend is powered by Spring Boot, and the frontend is implemented in React, available in the master branch. Hibernate was used to create and manage MySQL tables that store all the pertinent data.
 <h2>Login</h2>
 <img src="https://user-images.githubusercontent.com/70106587/225995145-9a330043-12ec-45e2-8f6e-73270755a645.png"/>
 
